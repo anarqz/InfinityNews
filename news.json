@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "items": [
+    {
+      "id": "2026-10-24-launcher-1-0-10-offline",
+      "date": "2026-10-24",
+      "title": {
+        "en": "Launcher 1.0.10: play offline without signing in",
+        "pt-BR": "Launcher 1.0.10: jogue offline sem entrar"
+      },
+      "summary": {
+        "en": "Choose Play offline on the first screen: profiles, mods and offline play work without an account, and nothing is sent to Infinity's servers.",
+        "pt-BR": "Escolha Jogar offline na primeira tela: perfis, mods e o jogo offline funcionam sem conta, e nada é enviado aos servidores do Infinity."
+      }
+    }
+  ]
+}
