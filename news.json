@@ -2,6 +2,19 @@
   "schemaVersion": 1,
   "items": [
     {
+      "id": "2026-10-25-how-your-saves-work",
+      "date": "2026-10-25T07:30",
+      "title": {
+        "en": "How your saves work in Infinity",
+        "pt-BR": "Como funcionam os seus saves no Infinity"
+      },
+      "summary": {
+        "en": "Where your saves live, one folder per profile, starting from a save you already have, nothing ever deleted, and how cloud saves work for Supporter Hardcore.",
+        "pt-BR": "Onde ficam os seus saves, uma pasta por perfil, começar por um save que você já tem, nada é apagado e como funciona o save na nuvem para Supporter Hardcore."
+      },
+      "cover": "assets/cover.jpg"
+    },
+    {
       "id": "2026-10-25-launcher-1-0-12-news",
       "date": "2026-10-25T05:55",
       "title": {
