@@ -10,8 +10,6 @@ Testado online com carros modificados e com o Nitro. Jogadores com mods que afet
 
 Os lobbies criados com mods ativos aparecem no filtro **Modded** do overlay. Vou continuar trabalhando firme para trazer mais suporte a mods e pacotes de carros ao Infinity Horizon.
 
-![O filtro Modded no overlay](assets/modded-filter.png)
-
 ## Novo atalho do overlay
 
 Se segurar VIEW não abria o overlay para você, segure **LB + RB** por cerca de um segundo.

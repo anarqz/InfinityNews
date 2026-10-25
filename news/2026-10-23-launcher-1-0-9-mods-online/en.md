@@ -10,8 +10,6 @@ Tested online with modded cars and Nitro. Players with mods that affect multipla
 
 Lobbies created while mods are active show up under the **Modded** filter in the overlay. I'll keep working hard to bring more mod support and car packs to Infinity Horizon.
 
-![The Modded filter in the overlay](assets/modded-filter.png)
-
 ## New overlay shortcut
 
 If holding VIEW didn't open the overlay for you, hold **LB + RB** for about one second.
