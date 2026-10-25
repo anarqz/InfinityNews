@@ -6,13 +6,13 @@ Infinity keeps no copy of your saves anywhere else. They stay in Azimuth's own s
 
 `<Azimuth>\data\titles\1A96545B\saves\player-1\`
 
-## One folder per profile
+## One set of profiles, offline and online
 
-Every Infinity profile has its own identity, so its own save folder (`User_…`), side by side in `player-1`. Profiles never share a save.
+You have up to three profiles, signed in or not, and every one of them plays both offline and online. Each profile has its own identity, so its own save folder (`User_…`), side by side in `player-1`. Profiles never share a save.
 
-- **Offline profiles** you create without signing in each get their own folder too.
-- **Uploading a Noob profile** to your account when you sign in copies its latest offline save to its online identity, so you keep playing the same career offline and online.
-- **Hardcore** works differently: the online career starts fresh from the server, and offline Hardcore progress never uploads.
+- **A profile you create without signing in** (Noob only) registers its name the next time you sign in. If someone took that name in the meantime, the launcher asks you for a new one; the profile and its save stay exactly as they are.
+- **Noob** profiles use one save folder offline and online: what you do offline continues online, and the other way round.
+- **Hardcore** works differently: online always continues from your cloud career. Played offline, a Hardcore profile keeps that progress in a separate local folder that never uploads.
 
 ## Revisions: the game keeps the newest two
 

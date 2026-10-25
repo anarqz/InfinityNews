@@ -6,13 +6,13 @@ O Infinity não guarda cópia dos seus saves em nenhum outro lugar. Eles ficam n
 
 `<Azimuth>\data\titles\1A96545B\saves\player-1\`
 
-## Uma pasta por perfil
+## Os mesmos perfis offline e online
 
-Cada perfil do Infinity tem a sua própria identidade e, portanto, a sua própria pasta de save (`User_…`), lado a lado em `player-1`. Perfis nunca compartilham um save.
+Você tem até três perfis, com ou sem login, e todos jogam tanto offline quanto online. Cada perfil tem a sua própria identidade e, portanto, a sua própria pasta de save (`User_…`), lado a lado em `player-1`. Perfis nunca compartilham um save.
 
-- **Perfis offline** que você cria sem entrar também ganham cada um a sua pasta.
-- **Ao enviar um perfil Noob** para a sua conta quando você entra, o último save offline dele é copiado para a identidade online, e você continua a mesma carreira offline e online.
-- **O Hardcore** funciona diferente: a carreira online começa do zero pelo servidor, e o progresso Hardcore offline nunca é enviado.
+- **Um perfil criado sem entrar** (só Noob) registra o nome na próxima vez que você entrar. Se alguém pegou esse nome nesse meio-tempo, o launcher pede outro; o perfil e o save dele ficam exatamente como estão.
+- **Perfis Noob** usam uma única pasta de save offline e online: o que você faz offline continua online, e vice-versa.
+- **O Hardcore** funciona diferente: online, ele sempre continua a sua carreira da nuvem. Jogado offline, um perfil Hardcore guarda esse progresso numa pasta local separada que nunca é enviada.
 
 ## Revisões: o jogo guarda as duas mais novas
 
