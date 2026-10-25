@@ -1,0 +1,37 @@
+# After a push to main validates, asks the private site repository to rebuild infinity-horizon.com,
+# so each news item gets its own link preview. Sends only this commit's sha; the site reads
+# news.json at that commit. Secret SITE_DISPATCH_TOKEN: a fine-grained token limited to
+# anarqz/ForzaInfinity with "Contents: read and write" (the permission GitHub requires for
+# repository_dispatch); the receiving workflow is .github/workflows/site-deploy.yml there.
+name: notify-site
+
+on:
+  push:
+    branches: [main]
+
+permissions:
+  contents: read
+
+concurrency:
+  group: notify-site
+  cancel-in-progress: true
+
+jobs:
+  notify:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          persist-credentials: false
+      - run: python3 scripts/validate.py
+      - name: Dispatch news-published
+        env:
+          GH_TOKEN: ${{ secrets.SITE_DISPATCH_TOKEN }}
+        run: |
+          if [[ -z "$GH_TOKEN" ]]; then
+            echo "SITE_DISPATCH_TOKEN is not set; the site was not asked to rebuild" >&2
+            exit 1
+          fi
+          gh api --silent repos/anarqz/ForzaInfinity/dispatches \
+            -f event_type=news-published -f "client_payload[sha]=$GITHUB_SHA"
