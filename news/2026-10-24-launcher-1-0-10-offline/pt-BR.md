@@ -1,5 +1,3 @@
-# Jogue offline sem entrar
-
 O launcher **1.0.10** abre em uma nova primeira tela com **Entrar** e **Jogar offline**.
 
 - **Jogar offline** libera o launcher inteiro sem conta: perfis, Mods e o jogo offline.

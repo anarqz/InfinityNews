@@ -2,8 +2,34 @@
   "schemaVersion": 1,
   "items": [
     {
+      "id": "2026-10-25-launcher-1-0-12-news",
+      "date": "2026-10-25T05:55",
+      "title": {
+        "en": "Launcher 1.0.12: news in the launcher",
+        "pt-BR": "Launcher 1.0.12: novidades no launcher"
+      },
+      "summary": {
+        "en": "Infinity's news right in the launcher, offline too, plus clearer mod states with an Install Extra Options button.",
+        "pt-BR": "As novidades do Infinity direto no launcher, também offline, e estados dos mods mais claros com um botão Instalar Extra Options."
+      },
+      "cover": "assets/cover.jpg"
+    },
+    {
+      "id": "2026-10-24-launcher-1-0-11-mod-catalog",
+      "date": "2026-10-24T21:31",
+      "title": {
+        "en": "Launcher 1.0.11: the official mod catalog",
+        "pt-BR": "Launcher 1.0.11: o catálogo oficial de mods"
+      },
+      "summary": {
+        "en": "Extra Options, Nitro and the Remix Car Pack in the official catalog, hash-checked downloads, your own files for the Remix, and a preview of every change.",
+        "pt-BR": "Extra Options, Nitro e Remix Car Pack no catálogo oficial, downloads conferidos por hash, seus próprios arquivos para a Remix e uma prévia de cada mudança."
+      },
+      "cover": "assets/cover.jpg"
+    },
+    {
       "id": "2026-10-24-launcher-1-0-10-offline",
-      "date": "2026-10-24",
+      "date": "2026-10-24T15:30",
       "title": {
         "en": "Launcher 1.0.10: play offline without signing in",
         "pt-BR": "Launcher 1.0.10: jogue offline sem entrar"
@@ -11,7 +37,164 @@
       "summary": {
         "en": "Choose Play offline on the first screen: profiles, mods and offline play work without an account, and nothing is sent to Infinity's servers.",
         "pt-BR": "Escolha Jogar offline na primeira tela: perfis, mods e o jogo offline funcionam sem conta, e nada é enviado aos servidores do Infinity."
+      },
+      "cover": "assets/cover.jpg"
+    },
+    {
+      "id": "2026-10-24-new-website-and-whats-next",
+      "date": "2026-10-24T14:10",
+      "title": {
+        "en": "New website, and what's next",
+        "pt-BR": "Site novo, e o que vem por aí"
+      },
+      "summary": {
+        "en": "infinity-horizon.com is live. Coming next: offline play, the mod platform and player profiles — then Infinity Worlds in next week's major release.",
+        "pt-BR": "O infinity-horizon.com está no ar. A seguir: jogo offline, plataforma de mods e perfil do jogador — e depois o Infinity Worlds na versão grande da semana que vem."
+      },
+      "cover": "assets/cover.jpg"
+    },
+    {
+      "id": "2026-10-23-mod-management-and-offline-mode",
+      "date": "2026-10-23T23:32",
+      "title": {
+        "en": "Mod management, offline mode, and why you need an account",
+        "pt-BR": "Gerenciamento de mods, modo offline e por que você precisa de uma conta"
+      },
+      "summary": {
+        "en": "Mods fully managed by the launcher, an offline mode on the way, and why online play needs a verified email.",
+        "pt-BR": "Mods totalmente gerenciados pelo launcher, um modo offline a caminho e por que o jogo online exige e-mail verificado."
+      },
+      "cover": "assets/cover.jpg"
+    },
+    {
+      "id": "2026-10-23-launcher-1-0-9-mods-online",
+      "date": "2026-10-23T22:08",
+      "cover": "assets/modded-filter.png",
+      "title": {
+        "en": "Launcher 1.0.9: mods play online",
+        "pt-BR": "Launcher 1.0.9: mods no jogo online"
+      },
+      "summary": {
+        "en": "Modded cars and Nitro online, a Modded filter for lobbies, and a new LB + RB shortcut for the overlay.",
+        "pt-BR": "Carros modificados e Nitro online, filtro Modded para os lobbies e um novo atalho LB + RB para o overlay."
       }
+    },
+    {
+      "id": "2026-10-23-mods-in-online-matchmaking",
+      "date": "2026-10-23T07:02",
+      "title": {
+        "en": "Tonight, we feast: mods in online matchmaking",
+        "pt-BR": "Hoje à noite tem festa: mods no matchmaking online"
+      },
+      "summary": {
+        "en": "Testing mods in online lobbies, car remixes first, all managed by the launcher. Plus a central relay test over the weekend.",
+        "pt-BR": "Teste de mods nos lobbies online, começando pelos remixes de carros, tudo gerenciado pelo launcher. E um teste de relay central no fim de semana."
+      },
+      "cover": "assets/cover.jpg"
+    },
+    {
+      "id": "2026-10-22-how-online-matchmaking-works",
+      "date": "2026-10-22T20:22",
+      "title": {
+        "en": "How online matchmaking works",
+        "pt-BR": "Como funciona o matchmaking online"
+      },
+      "summary": {
+        "en": "Infinity finds the match; the host relays it. Hosting needs UDP port 5101 open, and CGNAT or ISP restrictions can block some connections.",
+        "pt-BR": "O Infinity encontra a partida; o anfitrião faz o relay. Hospedar exige a porta UDP 5101 aberta, e CGNAT ou restrições do provedor podem bloquear algumas conexões."
+      },
+      "cover": "assets/cover.jpg"
+    },
+    {
+      "id": "2026-10-22-steam-deck-non-steam-game",
+      "date": "2026-10-22T16:45",
+      "cover": "assets/cover.jpg",
+      "title": {
+        "en": "Steam Deck: add Infinity as a non-Steam game",
+        "pt-BR": "Steam Deck: adicione o Infinity como jogo fora da Steam"
+      },
+      "summary": {
+        "en": "It's not on Steam — but it's easy to add Infinity Horizon to your Steam Deck library and play online from the couch.",
+        "pt-BR": "Não está na Steam — mas é fácil adicionar o Infinity Horizon à biblioteca do Steam Deck e jogar online do sofá."
+      }
+    },
+    {
+      "id": "2026-10-22-linux-support",
+      "date": "2026-10-22T12:00",
+      "title": {
+        "en": "Infinity on Linux",
+        "pt-BR": "Infinity no Linux"
+      },
+      "summary": {
+        "en": "Linux support on every major release from now on. A refined installer is coming; meanwhile a small script gets you running.",
+        "pt-BR": "Suporte a Linux em toda versão grande daqui em diante. Um instalador refinado está a caminho; enquanto isso, um pequeno script coloca tudo para rodar."
+      },
+      "cover": "assets/cover.jpg"
+    },
+    {
+      "id": "2026-10-21-how-to-host-and-join",
+      "date": "2026-10-21T22:00",
+      "title": {
+        "en": "How to host and join a lobby",
+        "pt-BR": "Como hospedar e entrar em um lobby"
+      },
+      "summary": {
+        "en": "Lobbies are created and joined from the Infinity overlay (hold VIEW), then you meet in SOCIAL → ONLINE FREE ROAM.",
+        "pt-BR": "Os lobbies são criados e acessados pelo overlay do Infinity (segure VIEW), e o encontro acontece em SOCIAL → ONLINE FREE ROAM."
+      },
+      "cover": "assets/cover.jpg"
+    },
+    {
+      "id": "2026-10-21-registrations-open",
+      "date": "2026-10-21T15:00",
+      "title": {
+        "en": "Registrations are open",
+        "pt-BR": "Cadastros abertos"
+      },
+      "summary": {
+        "en": "Create your account and profiles and try the launcher and overlay. Online matchmaking arrives with a small update. Hold VIEW for about a second to open the overlay.",
+        "pt-BR": "Crie sua conta e seus perfis e experimente o launcher e o overlay. O matchmaking online chega com uma pequena atualização. Segure VIEW por cerca de um segundo para abrir o overlay."
+      },
+      "cover": "assets/cover.jpg"
+    },
+    {
+      "id": "2026-10-21-launcher-download-ready",
+      "date": "2026-10-21T14:00",
+      "title": {
+        "en": "Download the Infinity launcher",
+        "pt-BR": "Baixe o launcher do Infinity"
+      },
+      "summary": {
+        "en": "The launcher release is up on GitHub. Registrations and online matches open shortly.",
+        "pt-BR": "A versão do launcher está no GitHub. Os cadastros e as partidas online abrem em breve."
+      },
+      "cover": "assets/cover.jpg"
+    },
+    {
+      "id": "2026-10-21-launch-day-details",
+      "date": "2026-10-21T13:00",
+      "title": {
+        "en": "Launch day: bring your save, race with friends",
+        "pt-BR": "Dia de lançamento: traga seu save e corra com os amigos"
+      },
+      "summary": {
+        "en": "Start a profile from your current Azimuth save, join public or private lobbies near you, and see everyone's liveries and tunes in sync. Hardcore comes later.",
+        "pt-BR": "Crie um perfil a partir do seu save do Azimuth, entre em lobbies públicos ou privados perto de você e veja pinturas e ajustes sincronizados. O Hardcore vem depois."
+      },
+      "cover": "assets/cover.jpg"
+    },
+    {
+      "id": "2026-10-21-closed-beta-and-the-road-ahead",
+      "date": "2026-10-21T12:00",
+      "title": {
+        "en": "Closed beta and the road ahead",
+        "pt-BR": "Beta fechado e o caminho pela frente"
+      },
+      "summary": {
+        "en": "FH2 online in under two days. Next: a closed beta of the cloud infrastructure, Hardcore and NOOB modes, modded cars, safety and a foundation built beyond FH2.",
+        "pt-BR": "FH2 online em menos de dois dias. Agora: beta fechado da infraestrutura na nuvem, modos Hardcore e NOOB, carros modificados, segurança e uma base pensada além do FH2."
+      },
+      "cover": "assets/cover.jpg"
     }
   ]
 }

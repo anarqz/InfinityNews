@@ -9,7 +9,7 @@ repository directly from `raw.githubusercontent.com`; nothing here runs code.
 2. Create `news/<id>/en.md` and/or `news/<id>/pt-BR.md` (Markdown). Images go in
    `news/<id>/assets/` and are referenced as
    `![alt](assets/picture.png)`.
-3. Add the item to `news.json`: `id`, `date` (`YYYY-MM-DD`), `title` and `summary` in `en` and/or
+3. Add the item to `news.json`: `id`, `date` (`YYYY-MM-DDTHH:MM`, 24h; the newest comes first), `title` and `summary` in `en` and/or
    `pt-BR`; optional `cover` (`assets/…`), `pinned` and `minLauncher`.
 4. Run `python3 scripts/validate.py`, then commit to `main`. The launcher may take about five
    minutes to see a new commit.
