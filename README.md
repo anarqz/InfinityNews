@@ -1,18 +1,21 @@
 # Infinity News
 
-News shown in the Infinity Horizon launcher (Play tab and News page). The launcher reads this
-repository directly from `raw.githubusercontent.com`; nothing here runs code.
+News shown in the Infinity Horizon launcher (Play tab and News page) and on
+https://infinity-horizon.com/news. The launcher reads this repository directly from
+`raw.githubusercontent.com`; nothing here runs code.
 
-## Add a news item
+## Every news item is a launcher release
 
-1. Pick an id: lowercase letters, digits and dashes, for example `2026-11-02-new-cars`.
-2. Create `news/<id>/en.md` and/or `news/<id>/pt-BR.md` (Markdown). Images go in
-   `news/<id>/assets/` and are referenced as
-   `![alt](assets/picture.png)`.
-3. Add the item to `news.json`: `id`, `date` (`YYYY-MM-DDTHH:MM`, 24h; the newest comes first), `title` and `summary` in `en` and/or
-   `pt-BR`; optional `cover` (`assets/…`), `pinned` and `minLauncher`.
-4. Run `python3 scripts/validate.py`, then commit to `main`. The launcher may take about five
-   minutes to see a new commit.
+`news.json` and `news/<tag>/{en,pt-BR}.md` are generated from the published `v*` releases of
+[anarqz/InfinityHorizon](https://github.com/anarqz/InfinityHorizon/releases) by
+`scripts/from_releases.py`: the release name is the title, the first point of the notes is the
+summary, and the `## English` / `## Português` sections are the two languages. Drafts,
+pre-releases and other tags are skipped. Do not edit the generated files by hand: write the
+release notes instead.
 
-Pinned items come first, then the newest. `scripts/validate.py` only catches typos (bad JSON, a
-missing folder, Markdown file or image).
+The `sync-releases` workflow runs it every hour (and on demand), commits when something changed and
+asks the site to rebuild. To run it locally:
+
+```sh
+python3 -I scripts/from_releases.py && python3 -I scripts/validate.py
+```

@@ -2,212 +2,448 @@
   "schemaVersion": 1,
   "items": [
     {
-      "id": "2026-10-25-how-your-saves-work",
-      "date": "2026-10-25T07:30",
+      "id": "v3.1.5",
+      "date": "2026-11-12T19:59",
       "title": {
-        "en": "How your saves work in Infinity",
-        "pt-BR": "Como funcionam os seus saves no Infinity"
+        "en": "Infinity Horizon 3.1.5",
+        "pt-BR": "Infinity Horizon 3.1.5"
       },
       "summary": {
-        "en": "Where your saves live, the same profiles offline and online, starting from a save you already have, nothing ever deleted, and how cloud saves work for Supporter Hardcore.",
-        "pt-BR": "Onde ficam os seus saves, os mesmos perfis offline e online, começar por um save que você já tem, nada é apagado e como funciona o save na nuvem para Supporter Hardcore."
-      },
-      "cover": "assets/cover.jpg"
-    },
-    {
-      "id": "2026-10-25-launcher-1-0-12-news",
-      "date": "2026-10-25T05:55",
-      "title": {
-        "en": "Launcher 1.0.12: news in the launcher",
-        "pt-BR": "Launcher 1.0.12: novidades no launcher"
-      },
-      "summary": {
-        "en": "Infinity's news right in the launcher, offline too, plus clearer mod states with an Install Extra Options button.",
-        "pt-BR": "As novidades do Infinity direto no launcher, também offline, e estados dos mods mais claros com um botão Instalar Extra Options."
-      },
-      "cover": "assets/cover.jpg"
-    },
-    {
-      "id": "2026-10-24-launcher-1-0-11-mod-catalog",
-      "date": "2026-10-24T21:31",
-      "title": {
-        "en": "Launcher 1.0.11: the official mod catalog",
-        "pt-BR": "Launcher 1.0.11: o catálogo oficial de mods"
-      },
-      "summary": {
-        "en": "Extra Options, Nitro and the Remix Car Pack in the official catalog, hash-checked downloads, your own files for the Remix, and a preview of every change.",
-        "pt-BR": "Extra Options, Nitro e Remix Car Pack no catálogo oficial, downloads conferidos por hash, seus próprios arquivos para a Remix e uma prévia de cada mudança."
-      },
-      "cover": "assets/cover.jpg"
-    },
-    {
-      "id": "2026-10-24-launcher-1-0-10-offline",
-      "date": "2026-10-24T15:30",
-      "title": {
-        "en": "Launcher 1.0.10: play offline without signing in",
-        "pt-BR": "Launcher 1.0.10: jogue offline sem entrar"
-      },
-      "summary": {
-        "en": "Choose Play offline on the first screen: profiles, mods and offline play work without an account, and nothing is sent to Infinity's servers.",
-        "pt-BR": "Escolha Jogar offline na primeira tela: perfis, mods e o jogo offline funcionam sem conta, e nada é enviado aos servidores do Infinity."
-      },
-      "cover": "assets/cover.jpg"
-    },
-    {
-      "id": "2026-10-24-new-website-and-whats-next",
-      "date": "2026-10-24T14:10",
-      "title": {
-        "en": "New website, and what's next",
-        "pt-BR": "Site novo, e o que vem por aí"
-      },
-      "summary": {
-        "en": "infinity-horizon.com is live. Coming next: offline play, the mod platform and player profiles — then Infinity Worlds in next week's major release.",
-        "pt-BR": "O infinity-horizon.com está no ar. A seguir: jogo offline, plataforma de mods e perfil do jogador — e depois o Infinity Worlds na versão grande da semana que vem."
-      },
-      "cover": "assets/cover.jpg"
-    },
-    {
-      "id": "2026-10-23-mod-management-and-offline-mode",
-      "date": "2026-10-23T23:32",
-      "title": {
-        "en": "Mod management, offline mode, and why you need an account",
-        "pt-BR": "Gerenciamento de mods, modo offline e por que você precisa de uma conta"
-      },
-      "summary": {
-        "en": "Mods fully managed by the launcher, an offline mode on the way, and why online play needs a verified email.",
-        "pt-BR": "Mods totalmente gerenciados pelo launcher, um modo offline a caminho e por que o jogo online exige e-mail verificado."
-      },
-      "cover": "assets/cover.jpg"
-    },
-    {
-      "id": "2026-10-23-launcher-1-0-9-mods-online",
-      "date": "2026-10-23T22:08",
-      "cover": "assets/modded-filter.png",
-      "title": {
-        "en": "Launcher 1.0.9: mods play online",
-        "pt-BR": "Launcher 1.0.9: mods no jogo online"
-      },
-      "summary": {
-        "en": "Modded cars and Nitro online, a Modded filter for lobbies, and a new LB + RB shortcut for the overlay.",
-        "pt-BR": "Carros modificados e Nitro online, filtro Modded para os lobbies e um novo atalho LB + RB para o overlay."
+        "en": "Mods page, tidier: one slim toolbar row, the search under it, and two views: Catalog (the mods Infinity installs and checks) and Manual (N) (the mods you copied into the mods folder yourself, as comp…",
+        "pt-BR": "Página de mods mais limpa: uma única barra fina, a busca logo abaixo e duas visões: Catálogo (os mods que o Infinity instala e confere) e Manuais (N) (os mods que você copiou à mão para a pasta de mo…"
       }
     },
     {
-      "id": "2026-10-23-mods-in-online-matchmaking",
-      "date": "2026-10-23T07:02",
+      "id": "v3.1.4",
+      "date": "2026-11-12T14:27",
       "title": {
-        "en": "Tonight, we feast: mods in online matchmaking",
-        "pt-BR": "Hoje à noite tem festa: mods no matchmaking online"
+        "en": "Infinity Horizon 3.1.4",
+        "pt-BR": "Infinity Horizon 3.1.4"
       },
       "summary": {
-        "en": "Testing mods in online lobbies, car remixes first, all managed by the launcher. Plus a central relay test over the weekend.",
-        "pt-BR": "Teste de mods nos lobbies online, começando pelos remixes de carros, tudo gerenciado pelo launcher. E um teste de relay central no fim de semana."
-      },
-      "cover": "assets/cover.jpg"
-    },
-    {
-      "id": "2026-10-22-how-online-matchmaking-works",
-      "date": "2026-10-22T20:22",
-      "title": {
-        "en": "How online matchmaking works",
-        "pt-BR": "Como funciona o matchmaking online"
-      },
-      "summary": {
-        "en": "Infinity finds the match; the host relays it. Hosting needs UDP port 5101 open, and CGNAT or ISP restrictions can block some connections.",
-        "pt-BR": "O Infinity encontra a partida; o anfitrião faz o relay. Hospedar exige a porta UDP 5101 aberta, e CGNAT ou restrições do provedor podem bloquear algumas conexões."
-      },
-      "cover": "assets/cover.jpg"
-    },
-    {
-      "id": "2026-10-22-steam-deck-non-steam-game",
-      "date": "2026-10-22T16:45",
-      "cover": "assets/cover.jpg",
-      "title": {
-        "en": "Steam Deck: add Infinity as a non-Steam game",
-        "pt-BR": "Steam Deck: adicione o Infinity como jogo fora da Steam"
-      },
-      "summary": {
-        "en": "It's not on Steam — but it's easy to add Infinity Horizon to your Steam Deck library and play online from the couch.",
-        "pt-BR": "Não está na Steam — mas é fácil adicionar o Infinity Horizon à biblioteca do Steam Deck e jogar online do sofá."
+        "en": "AZIMUTH profile. Your Azimuth profile now plays Azimuth's own save on this PC, online and offline; it has no cloud save. Your old Noob cloud save can be copied into it or exported to a file from the…",
+        "pt-BR": "Perfil AZIMUTH. Seu perfil Azimuth agora joga o próprio save do Azimuth neste PC, online e offline; ele não tem save na nuvem. Seu antigo save Noob na nuvem pode ser copiado para ele ou exportado par…"
       }
     },
     {
-      "id": "2026-10-22-linux-support",
-      "date": "2026-10-22T12:00",
+      "id": "v3.1.3",
+      "date": "2026-11-11T11:46",
       "title": {
-        "en": "Infinity on Linux",
-        "pt-BR": "Infinity no Linux"
+        "en": "Infinity Horizon 3.1.3",
+        "pt-BR": "Infinity Horizon 3.1.3"
       },
       "summary": {
-        "en": "Linux support on every major release from now on. A refined installer is coming; meanwhile a small script gets you running.",
-        "pt-BR": "Suporte a Linux em toda versão grande daqui em diante. Um instalador refinado está a caminho; enquanto isso, um pequeno script coloca tudo para rodar."
-      },
-      "cover": "assets/cover.jpg"
+        "en": "Forza Motorsport 5: Multiplayer works with \"Allow multiplayer and user-created content\" on. With that option on, the MULTIPLAYER tile kept loading and then said the feature was unavailable. The optio…",
+        "pt-BR": "Forza Motorsport 5: o Multijogador funciona com \"Permitir multijogador e conteúdo criado por usuários\" ligado. Com essa opção ligada, o bloco MULTIJOGADOR ficava carregando e depois dizia que o recur…"
+      }
     },
     {
-      "id": "2026-10-21-how-to-host-and-join",
-      "date": "2026-10-21T22:00",
+      "id": "v3.1.2",
+      "date": "2026-11-11T11:07",
       "title": {
-        "en": "How to host and join a lobby",
-        "pt-BR": "Como hospedar e entrar em um lobby"
+        "en": "Infinity Horizon 3.1.2",
+        "pt-BR": "Infinity Horizon 3.1.2"
       },
       "summary": {
-        "en": "Lobbies are created and joined from the Infinity overlay (hold VIEW), then you meet in SOCIAL → ONLINE FREE ROAM.",
-        "pt-BR": "Os lobbies são criados e acessados pelo overlay do Infinity (segure VIEW), e o encontro acontece em SOCIAL → ONLINE FREE ROAM."
-      },
-      "cover": "assets/cover.jpg"
+        "en": "Mods never stop you from joining. Players with different mods can join each other again: in worlds, quick join, private lobbies, Free Roam and join requests. Your mods are only shown to others.",
+        "pt-BR": "Mods nunca impedem você de entrar. Jogadores com mods diferentes voltam a entrar uns com os outros: em mundos, entrada rápida, lobbies privados, Free Roam e pedidos para entrar. Seus mods só aparecem…"
+      }
     },
     {
-      "id": "2026-10-21-registrations-open",
-      "date": "2026-10-21T15:00",
+      "id": "v3.1.1",
+      "date": "2026-11-10T21:47",
       "title": {
-        "en": "Registrations are open",
-        "pt-BR": "Cadastros abertos"
+        "en": "Infinity Horizon 3.1.1",
+        "pt-BR": "Infinity Horizon 3.1.1"
       },
       "summary": {
-        "en": "Create your account and profiles and try the launcher and overlay. Online matchmaking arrives with a small update. Hold VIEW for about a second to open the overlay.",
-        "pt-BR": "Crie sua conta e seus perfis e experimente o launcher e o overlay. O matchmaking online chega com uma pequena atualização. Segure VIEW por cerca de um segundo para abrir o overlay."
-      },
-      "cover": "assets/cover.jpg"
+        "en": "Online Free Roam events are back. Race and event markers show on the map again in online Free Roam. ExtraOptions 0.6.0 had hidden them; Infinity now keeps the game's own event switches online. Offlin…",
+        "pt-BR": "Os eventos do Free Roam online voltaram. Os marcadores de corridas e eventos aparecem de novo no mapa do Free Roam online. O ExtraOptions 0.6.0 os escondia; agora o Infinity mantém os controles de ev…"
+      }
     },
     {
-      "id": "2026-10-21-launcher-download-ready",
-      "date": "2026-10-21T14:00",
+      "id": "v3.1.0",
+      "date": "2026-11-10T02:19",
       "title": {
-        "en": "Download the Infinity launcher",
-        "pt-BR": "Baixe o launcher do Infinity"
+        "en": "Infinity Horizon 3.1.0",
+        "pt-BR": "Infinity Horizon 3.1.0"
       },
       "summary": {
-        "en": "The launcher release is up on GitHub. Registrations and online matches open shortly.",
-        "pt-BR": "A versão do launcher está no GitHub. Os cadastros e as partidas online abrem em breve."
-      },
-      "cover": "assets/cover.jpg"
+        "en": "ExtraOptions 0.6.0. Infinity now ships ExtraOptions 0.6.0. Mods live in one folder per game: mods\\Forza Horizon 2\\ and mods\\Forza Motorsport 5\\, each with its own load order. Before the first launch,…",
+        "pt-BR": "ExtraOptions 0.6.0. O Infinity agora vem com o ExtraOptions 0.6.0. Os mods ficam em uma pasta por jogo: mods\\Forza Horizon 2\\ e mods\\Forza Motorsport 5\\, cada uma com a sua ordem de carregamento. Ant…"
+      }
     },
     {
-      "id": "2026-10-21-launch-day-details",
-      "date": "2026-10-21T13:00",
+      "id": "v3.0.2",
+      "date": "2026-11-09T21:17",
       "title": {
-        "en": "Launch day: bring your save, race with friends",
-        "pt-BR": "Dia de lançamento: traga seu save e corra com os amigos"
+        "en": "Infinity Horizon 3.0.2",
+        "pt-BR": "Infinity Horizon 3.0.2"
       },
       "summary": {
-        "en": "Start a profile from your current Azimuth save, join public or private lobbies near you, and see everyone's liveries and tunes in sync. Hardcore comes later.",
-        "pt-BR": "Crie um perfil a partir do seu save do Azimuth, entre em lobbies públicos ou privados perto de você e veja pinturas e ajustes sincronizados. O Hardcore vem depois."
-      },
-      "cover": "assets/cover.jpg"
+        "en": "Car pack sets. A mod set such as the ZephyrSkies FM5 or FM6 Addon Packs now shows as one card on the Mods page. Choose the folder that holds the set's ZIP files and Install all installs every pack, i…",
+        "pt-BR": "Conjuntos de pacotes de carros. Um conjunto de mods como os ZephyrSkies FM5 ou FM6 Addon Packs agora aparece como um único cartão na página de Mods. Escolha a pasta com os ZIPs do conjunto e Instalar…"
+      }
     },
     {
-      "id": "2026-10-21-closed-beta-and-the-road-ahead",
-      "date": "2026-10-21T12:00",
+      "id": "v3.0.1",
+      "date": "2026-11-09T02:10",
       "title": {
-        "en": "Closed beta and the road ahead",
-        "pt-BR": "Beta fechado e o caminho pela frente"
+        "en": "Infinity Horizon 3.0.1",
+        "pt-BR": "Infinity Horizon 3.0.1"
       },
       "summary": {
-        "en": "FH2 online in under two days. Next: a closed beta of the cloud infrastructure, Hardcore and NOOB modes, modded cars, safety and a foundation built beyond FH2.",
-        "pt-BR": "FH2 online em menos de dois dias. Agora: beta fechado da infraestrutura na nuvem, modos Hardcore e NOOB, carros modificados, segurança e uma base pensada além do FH2."
+        "en": "Car meets work again. Joining a car meet could fail every time on 3.0.0: the launcher gave up before the game finished connecting. Car meets now get more time to connect.",
+        "pt-BR": "Car meets voltaram a funcionar. No 3.0.0, entrar em um car meet podia falhar sempre: o launcher desistia antes de o jogo terminar de conectar. Agora os car meets têm mais tempo para conectar."
+      }
+    },
+    {
+      "id": "v3.0.0",
+      "date": "2026-11-08T23:03",
+      "title": {
+        "en": "Infinity Horizon 3.0.0",
+        "pt-BR": "Infinity Horizon 3.0.0"
       },
-      "cover": "assets/cover.jpg"
+      "summary": {
+        "en": "FM5 joins Infinity! For now it's private matches between friends only.",
+        "pt-BR": "O FM5 chegou ao Infinity! Por enquanto, apenas partidas privadas entre amigos."
+      }
+    },
+    {
+      "id": "v2.0.4",
+      "date": "2026-11-01T13:56",
+      "title": {
+        "en": "Infinity Horizon 2.0.4",
+        "pt-BR": "Infinity Horizon 2.0.4"
+      },
+      "summary": {
+        "en": "Show me on the website. The Account page has a new Website card: one switch per profile chooses whether your name, stats, garage and records appear on play.infinity-horizon.com. It is on by default;…",
+        "pt-BR": "Mostrar meu perfil no site. A página Conta tem um novo cartão Site: um botão por perfil escolhe se o seu nome, estatísticas, garagem e recordes aparecem em play.infinity-horizon.com. Ele vem ligado;…"
+      }
+    },
+    {
+      "id": "v2.0.3",
+      "date": "2026-11-01T11:48",
+      "title": {
+        "en": "Infinity Horizon 2.0.3",
+        "pt-BR": "Infinity Horizon 2.0.3"
+      },
+      "summary": {
+        "en": "Infected alone. An Infected event with only one player ends when the race starts, never during the countdown.",
+        "pt-BR": "Infected sozinho. Um evento Infected com um só jogador termina quando a corrida começa, nunca durante a contagem regressiva."
+      }
+    },
+    {
+      "id": "v2.0.2",
+      "date": "2026-11-01T11:14",
+      "title": {
+        "en": "Infinity Horizon 2.0.2",
+        "pt-BR": "Infinity Horizon 2.0.2"
+      },
+      "summary": {
+        "en": "King: a second round crowns again. A second King or Infected in the same lobby now starts with a crowned car (or patient zero) and keeps the event's rules and car restrictions.",
+        "pt-BR": "King: a segunda rodada coroa de novo. Um segundo King ou Infected no mesmo lobby agora começa com um carro coroado (ou o paciente zero) e mantém as regras e as restrições de carro do evento."
+      }
+    },
+    {
+      "id": "v2.0.1",
+      "date": "2026-11-01T03:08",
+      "title": {
+        "en": "Infinity Horizon 2.0.1",
+        "pt-BR": "Infinity Horizon 2.0.1"
+      },
+      "summary": {
+        "en": "Proximity voice chat. Hosts can now choose the lobby's voice mode in the overlay: Off, Open or Proximity. In Proximity you hear the players near you (up to 150 m), from the side they are on, louder w…",
+        "pt-BR": "Chat de voz por proximidade. O host agora escolhe o modo de voz do lobby no overlay: Desligado, Aberto ou Proximidade. Na Proximidade você ouve os jogadores perto de você (até 150 m), do lado em que…"
+      }
+    },
+    {
+      "id": "v2.0.0",
+      "date": "2026-10-31T09:28",
+      "title": {
+        "en": "Infinity Horizon 2.0.0",
+        "pt-BR": "Infinity Horizon 2.0.0"
+      },
+      "summary": {
+        "en": "Voice chat (experimental). Talk to the players in your lobby straight from the overlay: echo cancellation and noise suppression are built in, push-to-talk or open mic, a mute for each player, and the…",
+        "pt-BR": "Chat de voz (experimental). Converse com os jogadores do seu lobby direto pelo overlay: cancelamento de eco e supressão de ruído embutidos, apertar para falar ou microfone aberto, mute para cada joga…"
+      }
+    },
+    {
+      "id": "v1.2.8",
+      "date": "2026-10-30T00:44",
+      "title": {
+        "en": "Infinity Horizon 1.2.8",
+        "pt-BR": "Infinity Horizon 1.2.8"
+      },
+      "summary": {
+        "en": "Azimuth 1.0.4 and ExtraOptions 0.4.4. Infinity now runs on Azimuth 1.0.4 with ExtraOptions 0.4.4. Azimuth 1.0.3 is no longer supported: download Azimuth 1.0.4 and point the launcher at it when it ask…",
+        "pt-BR": "Azimuth 1.0.4 e ExtraOptions 0.4.4. O Infinity agora roda no Azimuth 1.0.4 com o ExtraOptions 0.4.4. O Azimuth 1.0.3 não é mais suportado: baixe o Azimuth 1.0.4 e indique a pasta dele quando o launch…"
+      }
+    },
+    {
+      "id": "v1.2.7",
+      "date": "2026-10-29T18:54",
+      "title": {
+        "en": "Infinity Horizon 1.2.7",
+        "pt-BR": "Infinity Horizon 1.2.7"
+      },
+      "summary": {
+        "en": "Sharing liveries works. Large designs no longer fail with \"error communicating with the Forza Horizon 2 server\": the game sent an extra copy of the paint that went over its own size limit, and Infini…",
+        "pt-BR": "Compartilhar pinturas funciona. Pinturas grandes não falham mais com \"erro de comunicação com o servidor do Forza Horizon 2\": o jogo enviava uma cópia extra da pintura que passava do limite de tamanh…"
+      }
+    },
+    {
+      "id": "v1.2.6",
+      "date": "2026-10-29T16:49",
+      "title": {
+        "en": "Infinity Horizon 1.2.6",
+        "pt-BR": "Infinity Horizon 1.2.6"
+      },
+      "summary": {
+        "en": "No free-tier limits left in the client. Every player gets the same features; the server decides. A profile whose saves the server keeps in the cloud sends all of the game's online services to the ser…",
+        "pt-BR": "Nenhum limite de conta gratuita no cliente. Todos os jogadores têm os mesmos recursos; o servidor decide. Um perfil cujos saves o servidor guarda na nuvem envia todos os serviços online do jogo ao se…"
+      }
+    },
+    {
+      "id": "v1.2.5",
+      "date": "2026-10-29T15:32",
+      "title": {
+        "en": "Infinity Horizon 1.2.5",
+        "pt-BR": "Infinity Horizon 1.2.5"
+      },
+      "summary": {
+        "en": "Infinity on your Discord profile. While Infinity runs, your Discord status shows your profile (mode, club tag, name, level), credits, your current car and what you are doing: in a lobby (with the par…",
+        "pt-BR": "O Infinity no seu perfil do Discord. Enquanto o Infinity roda, o seu status no Discord mostra o seu perfil (modo, tag do clube, nome, nível), os créditos, o carro atual e o que você está fazendo: em…"
+      }
+    },
+    {
+      "id": "v1.2.4",
+      "date": "2026-10-29T12:48",
+      "title": {
+        "en": "Infinity Horizon 1.2.4",
+        "pt-BR": "Infinity Horizon 1.2.4"
+      },
+      "summary": {
+        "en": "Marketplace, Social, Clubs and Rivals are on. The pause menu's online tabs are now enabled by default and are yours to switch on the Mods page (ExtraOptions). If you had them off because Infinity use…",
+        "pt-BR": "Marketplace, Social, Clubes e Rivais ligados. As abas online do menu de pausa agora vêm ligadas e podem ser trocadas por você na página Mods (ExtraOptions). Se estavam desligadas porque o Infinity as…"
+      }
+    },
+    {
+      "id": "v1.2.3",
+      "date": "2026-10-29T11:22",
+      "title": {
+        "en": "Infinity Horizon 1.2.3",
+        "pt-BR": "Infinity Horizon 1.2.3"
+      },
+      "summary": {
+        "en": "Hardcore careers are never moved aside again and again. Until a Hardcore profile's first cloud save was accepted, the launcher could move the career into a backup folder (fi-launcher-archive) at ever…",
+        "pt-BR": "Carreiras Hardcore não são mais movidas de lado de novo e de novo. Até o primeiro save na nuvem de um perfil Hardcore ser aceito, o launcher podia mover a carreira para uma pasta de backup (fi-launch…"
+      }
+    },
+    {
+      "id": "v1.2.2",
+      "date": "2026-10-29T01:32",
+      "title": {
+        "en": "Infinity Horizon 1.2.2",
+        "pt-BR": "Infinity Horizon 1.2.2"
+      },
+      "summary": {
+        "en": "Launcher updates no longer freeze. The download's progress reached the window thousands of times per update and the window fell behind; it now refreshes a few times per second.",
+        "pt-BR": "As atualizações do launcher não travam mais. O progresso do download chegava à janela milhares de vezes por atualização e a janela ficava para trás; agora ela se atualiza poucas vezes por segundo."
+      }
+    },
+    {
+      "id": "v1.2.1",
+      "date": "2026-10-29T01:07",
+      "title": {
+        "en": "Infinity Horizon 1.2.1",
+        "pt-BR": "Infinity Horizon 1.2.1"
+      },
+      "summary": {
+        "en": "Fix: your progress reaches the server again. In 1.2.0 the Infinity hook (0.3.0+fh2online.97) misread whether the server keeps your profile in the cloud, so the game's online services (profile sync, s…",
+        "pt-BR": "Correção: o seu progresso volta a chegar ao servidor. Na 1.2.0 o hook do Infinity (0.3.0+fh2online.97) lia errado se o servidor guarda o seu perfil na nuvem, então os serviços online do jogo (sincron…"
+      }
+    },
+    {
+      "id": "v1.2.0",
+      "date": "2026-10-29T00:33",
+      "title": {
+        "en": "Infinity Horizon 1.2.0",
+        "pt-BR": "Infinity Horizon 1.2.0"
+      },
+      "summary": {
+        "en": "Everyone is an Infinity Racer. Every feature is open to every player. Infinity Supporters, who helped build the project, carry a small Supporter badge. The launcher shows \"CONNECTED - INFINITY RACER\"…",
+        "pt-BR": "Todo mundo é Infinity Racer. Todos os recursos estão abertos para todos os jogadores. Os Infinity Supporters, que ajudaram a construir o projeto, levam um pequeno selo de Supporter. O launcher mostra…"
+      }
+    },
+    {
+      "id": "v1.1.0",
+      "date": "2026-10-28T17:14",
+      "title": {
+        "en": "Infinity Horizon 1.1.0",
+        "pt-BR": "Infinity Horizon 1.1.0"
+      },
+      "summary": {
+        "en": "Azimuth 1.0.3 with ExtraOptions built in. The Infinity hook (0.3.0+fh2online.96) is now ExtraOptions 0.3.9 with Infinity's online services. Install or reinstall it on Configure; ExtraOptions is part…",
+        "pt-BR": "Azimuth 1.0.3 com o ExtraOptions integrado. O hook do Infinity (0.3.0+fh2online.96) agora é o ExtraOptions 0.3.9 com os serviços online do Infinity. Instale ou reinstale em Configurar; o ExtraOptions…"
+      }
+    },
+    {
+      "id": "v1.0.14",
+      "date": "2026-10-25T18:04",
+      "title": {
+        "en": "Infinity Horizon 1.0.14",
+        "pt-BR": "Infinity Horizon 1.0.14"
+      },
+      "summary": {
+        "en": "Idle seats go to players who wait. The Infinity hook (0.3.0+fh2online.88) now tells the server whether you are driving, in a menu or away, on the game's own regular check. If you stay away while play…",
+        "pt-BR": "Vagas ociosas vão para quem espera. O hook do Infinity (0.3.0+fh2online.88) agora informa ao servidor se você está dirigindo, em um menu ou ausente, na verificação regular do próprio jogo. Se você fi…"
+      }
+    },
+    {
+      "id": "v1.0.13",
+      "date": "2026-10-25T16:22",
+      "title": {
+        "en": "Infinity Horizon 1.0.13",
+        "pt-BR": "Infinity Horizon 1.0.13"
+      },
+      "summary": {
+        "en": "One set of profiles, offline and online. Up to three profiles, signed in or not; every one plays both offline and online. A profile you create without signing in (Noob) registers its name the next ti…",
+        "pt-BR": "Um só conjunto de perfis, offline e online. Até três perfis, com ou sem login; todos jogam offline e online. Um perfil criado sem login (Noob) registra o nome no próximo login; se alguém tiver pegado…"
+      }
+    },
+    {
+      "id": "v1.0.12",
+      "date": "2026-10-25T08:55",
+      "title": {
+        "en": "Infinity Horizon 1.0.12",
+        "pt-BR": "Infinity Horizon 1.0.12"
+      },
+      "summary": {
+        "en": "News in the launcher. A News page and the latest stories on the PLAY screen, published from the official Infinity News feed. Open a story to read it in full, with images, formatting and emoji. A dot…",
+        "pt-BR": "Notícias no launcher. Uma página de Notícias e as últimas notícias na tela JOGAR, publicadas pelo feed oficial Infinity News. Abra uma notícia para lê-la inteira, com imagens, formatação e emoji. Uma…"
+      }
+    },
+    {
+      "id": "v1.0.11",
+      "date": "2026-10-25T00:31",
+      "title": {
+        "en": "Infinity Horizon 1.0.11",
+        "pt-BR": "Infinity Horizon 1.0.11"
+      },
+      "summary": {
+        "en": "A new official mod catalog. It lists the Infinity mod runtime, Extra Options, Nitro System and the reviewed Remix Car Pack. Every download is checked against the size and hash the catalog lists.",
+        "pt-BR": "Um novo catálogo oficial de mods. Ele lista o runtime de mods do Infinity, o Extra Options, o Nitro System e o Remix Car Pack, já revisado. Cada download é conferido com o tamanho e o hash listados n…"
+      }
+    },
+    {
+      "id": "v1.0.10",
+      "date": "2026-10-24T18:26",
+      "title": {
+        "en": "Infinity Horizon 1.0.10",
+        "pt-BR": "Infinity Horizon 1.0.10"
+      },
+      "summary": {
+        "en": "Play offline without an account. The first screen offers SIGN IN, and \"Play offline\" under it. Signing in is only needed for online play.",
+        "pt-BR": "Jogue offline sem conta. A primeira tela oferece ENTRAR e, logo abaixo, \"Jogar offline\". Entrar só é necessário para jogar online."
+      }
+    },
+    {
+      "id": "v1.0.9",
+      "date": "2026-10-24T00:28",
+      "title": {
+        "en": "Infinity Horizon 1.0.9",
+        "pt-BR": "Infinity Horizon 1.0.9"
+      },
+      "summary": {
+        "en": "Mods now play online. Players with mods that affect multiplayer meet in modded lobbies with exactly the same mods. Hardcore profiles play without multiplayer mods (Extra Options still works there).",
+        "pt-BR": "Os mods agora funcionam online. Jogadores com mods que afetam o multijogador se encontram em lobbies com mods, com exatamente os mesmos mods. Perfis Hardcore jogam sem mods de multijogador (o Extra O…"
+      }
+    },
+    {
+      "id": "v1.0.8",
+      "date": "2026-10-22T22:26",
+      "title": {
+        "en": "Infinity Horizon 1.0.8",
+        "pt-BR": "Infinity Horizon 1.0.8"
+      },
+      "summary": {
+        "en": "A lobby you host with nobody else in it now warns you after 4 minutes and closes after 5. Any player, invite or pending request keeps it open.",
+        "pt-BR": "Um lobby que você abre e no qual ninguém entra agora avisa após 4 minutos e fecha após 5. Qualquer jogador, convite ou pedido pendente mantém o lobby aberto."
+      }
+    },
+    {
+      "id": "v1.0.7",
+      "date": "2026-10-22T19:45",
+      "title": {
+        "en": "Infinity Horizon 1.0.7",
+        "pt-BR": "Infinity Horizon 1.0.7"
+      },
+      "summary": {
+        "en": "Fix updater path validation under Wine/Proton when parent drive or mount paths are reported as links.",
+        "pt-BR": "Corrige a validação de caminhos do atualizador no Wine/Proton quando unidades ou pontos de montagem acima da instalação são identificados como links."
+      }
+    },
+    {
+      "id": "v1.0.6",
+      "date": "2026-10-22T19:13",
+      "title": {
+        "en": "Infinity Horizon 1.0.6",
+        "pt-BR": "Infinity Horizon 1.0.6"
+      },
+      "summary": {
+        "en": "Navigate the launcher with an XInput controller or Steam Input.",
+        "pt-BR": "Navegue pelo launcher com um controle XInput ou Steam Input."
+      }
+    },
+    {
+      "id": "v1.0.5",
+      "date": "2026-10-22T11:26",
+      "title": {
+        "en": "Infinity Horizon 1.0.5",
+        "pt-BR": "Infinity Horizon 1.0.5"
+      },
+      "summary": {
+        "en": "Infinity Horizon 1.0.5",
+        "pt-BR": "Infinity Horizon 1.0.5"
+      }
+    },
+    {
+      "id": "v1.0.4",
+      "date": "2026-10-21T23:12",
+      "title": {
+        "en": "Infinity Horizon 1.0.4",
+        "pt-BR": "Infinity Horizon 1.0.4"
+      },
+      "summary": {
+        "en": "Infinity Horizon 1.0.4",
+        "pt-BR": "Infinity Horizon 1.0.4"
+      }
+    },
+    {
+      "id": "v1.0.3",
+      "date": "2026-10-21T22:40",
+      "title": {
+        "en": "Infinity Horizon 1.0.3",
+        "pt-BR": "Infinity Horizon 1.0.3"
+      },
+      "summary": {
+        "en": "Infinity Horizon 1.0.3",
+        "pt-BR": "Infinity Horizon 1.0.3"
+      }
+    },
+    {
+      "id": "v1.0.2",
+      "date": "2026-10-21T20:39",
+      "title": {
+        "en": "A new horizon",
+        "pt-BR": "A new horizon"
+      },
+      "summary": {
+        "en": "Infinity Horizon 1.0.2",
+        "pt-BR": "Infinity Horizon 1.0.2"
+      }
     }
   ]
 }

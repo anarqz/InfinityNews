@@ -1,0 +1,6 @@
+- **Hardcore careers are never moved aside again and again.** Until a Hardcore profile's first cloud save was accepted, the launcher could move the career into a backup folder (`fi-launcher-archive`) at every launch and start a new one. It now does that at most once per profile, and when the server refuses a first save it asks you before doing anything.
+- **Restore a career from this PC's backups.** On the Home screen, a Hardcore profile with such backups can list them (level, credits, date) and restore one. The launcher asks the server first whether the career would be accepted and changes nothing if not; careers that grew faster than the profile's cloud history allows stay safely in their backup folder. A restored career is uploaded at your next Play; if the server refuses it, your previous save is put back. Nothing is ever deleted: your current save is backed up first.
+
+The hook is unchanged (0.3.0+fh2online.98). Windows installations can use the launcher updater or extract the Windows x64 ZIP into a separate launcher folder. On Linux/Steam Deck, the launcher updater applies this release; if it cannot, rerun the [Linux/Steam Deck installer](https://github.com/anarqz/InfinityHorizon/tree/v1.2.3#install-on-linux-and-steam-deck).
+
+[Download and full notes](https://github.com/anarqz/InfinityHorizon/releases/tag/v1.2.3)

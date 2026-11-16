@@ -1,0 +1,6 @@
+- **Carreiras Hardcore não são mais movidas de lado de novo e de novo.** Até o primeiro save na nuvem de um perfil Hardcore ser aceito, o launcher podia mover a carreira para uma pasta de backup (`fi-launcher-archive`) a cada início e começar uma nova. Agora isso acontece no máximo uma vez por perfil, e quando o servidor recusa um primeiro save ele pergunta antes de fazer qualquer coisa.
+- **Restaurar uma carreira dos backups deste PC.** Na tela Início, um perfil Hardcore com esses backups pode listá-los (nível, créditos, data) e restaurar um. O launcher pergunta antes ao servidor se a carreira seria aceita e não muda nada se não for; carreiras que cresceram mais rápido do que o histórico do perfil na nuvem permite ficam guardadas na pasta de backup. A carreira restaurada é enviada no seu próximo Jogar; se o servidor recusar, o seu save anterior volta. Nada é apagado: o seu save atual é guardado antes.
+
+O hook não mudou (0.3.0+fh2online.98). No Windows, use o atualizador do launcher ou extraia o ZIP Windows x64 em uma pasta própria. No Linux/Steam Deck, o atualizador do launcher aplica esta versão; se não conseguir, execute novamente o [instalador para Linux/Steam Deck](https://github.com/anarqz/InfinityHorizon/tree/v1.2.3#install-on-linux-and-steam-deck).
+
+[Download e notas completas](https://github.com/anarqz/InfinityHorizon/releases/tag/v1.2.3)

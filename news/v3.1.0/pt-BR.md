@@ -1,0 +1,9 @@
+- **ExtraOptions 0.6.0.** O Infinity agora vem com o ExtraOptions 0.6.0. Os mods ficam em uma pasta por jogo: `mods\Forza Horizon 2\` e `mods\Forza Motorsport 5\`, cada uma com a sua ordem de carregamento. Antes do primeiro início, o launcher move seus mods e a ordem de carregamento para a pasta do jogo certo. Se não conseguir mover, ele explica o motivo e não deixa o jogo iniciar até resolver. Nada é apagado, e a pasta `mods\Cache` do próprio ExtraOptions nunca é mexida.
+- **Configurações.** Novas opções do ExtraOptions: eventos do Playground no mapa e o cache do banco de dados dos mods. As opções aposentadas saíram. As opções que protegem os saves (commits de save ausentes, VIP offline) continuam travadas em desligado. O launcher confere todo arquivo de configuração do ExtraOptions que grava, porque um arquivo inválido desliga o ExtraOptions.
+- **Mods por modo.** Perfis NOOB podem usar qualquer mod. Perfis HARDCORE mantêm só mods cosméticos, nos dois jogos. A pasta de mods do Forza Motorsport 5 guarda só mods instalados pelo launcher.
+- **Mods novos.** Garage Revving (os dois modos) e Weather Control (só NOOB) vão chegar ao catálogo.
+- **Saves.** Na tela Resolver, **Manter este PC** agora funciona. O jogo não fica mais mostrando "Resolver saves": o cartão mostra "Sobe para a nuvem no próximo Jogar", e o save deste PC sobe quando você aperta Jogar, sem perguntar de novo.
+
+O hook foi atualizado (0.3.0+fh2online.125). No Windows, use o atualizador do launcher ou extraia o ZIP Windows x64 em uma pasta própria. No Linux/Steam Deck, o atualizador do launcher aplica esta versão; se não conseguir, execute novamente o [instalador para Linux/Steam Deck](https://github.com/anarqz/InfinityHorizon/tree/v2.0.4#install-on-linux-and-steam-deck).
+
+[Download e notas completas](https://github.com/anarqz/InfinityHorizon/releases/tag/v3.1.0)
