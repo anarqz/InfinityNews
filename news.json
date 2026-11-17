@@ -2,6 +2,18 @@
   "schemaVersion": 1,
   "items": [
     {
+      "id": "v3.2.0",
+      "date": "2026-11-17T18:22",
+      "title": {
+        "en": "Infinity Horizon 3.2.0",
+        "pt-BR": "Infinity Horizon 3.2.0"
+      },
+      "summary": {
+        "en": "See other players' Underglow and ANNA car parts. In online free roam, other players' Underglow, plus the doors, hood, trunk, lights and turn signals they open or switch on with FH2 ANNA, now show on…",
+        "pt-BR": "Veja o Underglow e as partes do carro do ANNA de outros jogadores. No free roam online, o Underglow de outros jogadores, além das portas, capô, porta-malas, faróis e setas que eles abrem ou ligam com…"
+      }
+    },
+    {
       "id": "v3.1.7",
       "date": "2026-11-17T00:35",
       "title": {
