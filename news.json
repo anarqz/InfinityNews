@@ -2,6 +2,30 @@
   "schemaVersion": 1,
   "items": [
     {
+      "id": "v3.1.7",
+      "date": "2026-11-17T00:35",
+      "title": {
+        "en": "Infinity Horizon 3.1.7",
+        "pt-BR": "Infinity Horizon 3.1.7"
+      },
+      "summary": {
+        "en": "The Mods page loads faster. The mod catalog is now split into one small file per mod, and the launcher downloads again only the mods that changed since your last visit.",
+        "pt-BR": "A página de Mods carrega mais rápido. O catálogo de mods agora é dividido em um arquivo pequeno por mod, e o launcher só baixa de novo os mods que mudaram desde a sua última visita."
+      }
+    },
+    {
+      "id": "v3.1.6",
+      "date": "2026-11-16T22:42",
+      "title": {
+        "en": "Infinity Horizon 3.1.6",
+        "pt-BR": "Infinity Horizon 3.1.6"
+      },
+      "summary": {
+        "en": "Infinity Horizon is out of beta: no more BETA labels, badge or notice in the launcher.",
+        "pt-BR": "O Infinity Horizon saiu do beta: os rótulos, o selo e o aviso BETA saíram do launcher."
+      }
+    },
+    {
       "id": "v3.1.5",
       "date": "2026-11-12T19:59",
       "title": {
