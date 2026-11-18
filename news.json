@@ -2,6 +2,18 @@
   "schemaVersion": 1,
   "items": [
     {
+      "id": "v3.2.1",
+      "date": "2026-11-18T14:22",
+      "title": {
+        "en": "Infinity Horizon 3.2.1",
+        "pt-BR": "Infinity Horizon 3.2.1"
+      },
+      "summary": {
+        "en": "The Mods page no longer freezes the launcher. Opening a mod's list of replaced files could hang the launcher, make it use more and more memory, and keep it running in the background after you closed…",
+        "pt-BR": "A página Mods não trava mais o launcher. Abrir a lista de arquivos substituídos de um mod podia travar o launcher, fazê-lo usar cada vez mais memória e deixá-lo rodando em segundo plano depois de fec…"
+      }
+    },
+    {
       "id": "v3.2.0",
       "date": "2026-11-17T18:22",
       "title": {
