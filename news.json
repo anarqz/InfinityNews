@@ -2,6 +2,18 @@
   "schemaVersion": 1,
   "items": [
     {
+      "id": "v3.2.2",
+      "date": "2026-11-19T13:31",
+      "title": {
+        "en": "Infinity Horizon 3.2.2",
+        "pt-BR": "Infinity Horizon 3.2.2"
+      },
+      "summary": {
+        "en": "Mods that depend on each other update together. When a mod's update needs a newer version of another mod (or another mod needs this one's update), the launcher now offers both updates at once, in the…",
+        "pt-BR": "Mods que dependem um do outro são atualizados juntos. Quando a atualização de um mod precisa de uma versão mais nova de outro mod (ou outro mod precisa da atualização deste), o launcher agora oferece…"
+      }
+    },
+    {
       "id": "v3.2.1",
       "date": "2026-11-18T14:22",
       "title": {
